@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    json (1.6.4)
+    ri_cal (0.8.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  ri_cal

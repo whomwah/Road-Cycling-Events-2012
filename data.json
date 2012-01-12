@@ -1,0 +1,216 @@
+{
+  "events" : [
+    {
+      "title" : "UCI Track Coupe du Monde III / World Cup III",
+      "location" : "Beijing, China",
+      "start" : "13-1-2012",
+      "end"   : "15-1-2012"
+    },
+    {
+      "title" : "UCI Road World Tour Tour Down Under",
+      "location" : "Australia",
+      "start" : "17-1-2012",
+      "end"   : "22-1-2012"
+    },
+    {
+      "title" : "UCI Track Coupe du Monde IV / World Cup IV",
+      "location" : "London, Great Britain",
+      "start" : "17-2-2012",
+      "end"   : "19-2-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Paris - Nice, France",
+      "start" : "4-3-2012",
+      "end"   : "11-3-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Tirreno-Adriatico, Italy",
+      "start" : "7-3-2012",
+      "end"   : "13-3-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Milano-Sanremo, Italy",
+      "start" : "17-3-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO / DHI 1",
+      "location" : "Pietermaritzburg, South Africa",
+      "start" : "17-3-2012",
+      "end"   : "18-3-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Volta Ciclista a Catalunya, Spain",
+      "start" : "19-3-2012",
+      "end"   : "25-3-2012"
+    },
+    {
+      "title" : "Road World Tour",
+      "location" : "E3 Prijs Vlaanderen - Harelbeke, Belgium",
+      "start" : "23-3-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Gent - Wevelgem, Belgium",
+      "start" : "25-3-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Ronde van Vlaanderen / Tour des Flandres, Belgium",
+      "start" : "1-4-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Vuelta Ciclista al Pais Vasco, Spain",
+      "start" : "2-4-2012",
+      "end"   : "7-4-2012"
+    },
+    {
+      "title" : "UCI Track Championnats du Monde Piste UCI/ UCI World Track Championship",
+      "location" : "Melbourne, Australia",
+      "start" : "4-4-2012",
+      "end"   : "8-4-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Paris - Roubaix, France",
+      "start" : "8-4-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO 2 / XCE 1",
+      "location" : "Houffalize, Belgium",
+      "start" : "14-4-2012",
+      "end"   : "15-4-2012"
+    },
+    {
+      "title" : "UCI Road World Tour Amstel Gold Race",
+      "location" : "Netherlands",
+      "start" : "15-4-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "La Fleche Wallonne, Belgiu",
+      "start" : "18-4-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Liege - Bastogne - Liege, Belgium",
+      "start" : "22-4-2012"
+    },
+    {
+      "title" : "UCI Road World Tour",
+      "location" : "Tour de Romandie, Switzerland",
+      "start" : "24-4-2012",
+      "end"   : "29-4-2012"
+    },
+    {
+      "title" : "Giro d'Italia",
+      "location" : "Italy",
+      "start" : "5-5-2012",
+      "end"   : "27-5-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO 3 / XCE 2",
+      "location" : "Nove Mesto na Morave, Czech Republic",
+      "start" : "12-5-2012",
+      "end"   : "13-5-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 1",
+      "start" : "15-5-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 2",
+      "start" : "17-5-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO 4 / XCE 3",
+      "location" : "La Bresse, France",
+      "start" : "19-5-2012",
+      "end"   : "20-5-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 3",
+      "start" : "22-5-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 4",
+      "start" : "24-5-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 5",
+      "start" : "29-5-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 6",
+      "start" : "31-5-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup DHI 2",
+      "location" : "Val di Sole, Italy",
+      "start" : "2-6-2012",
+      "end"   : "3-6-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 7",
+      "start" : "5-6-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 8",
+      "start" : "7-6-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup DHI 3",
+      "location" : "Fort William, Great Britain",
+      "start" : "9-6-2012",
+      "end"   : "10-6-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 9",
+      "start" : "12-6-2012"
+    },
+    {
+      "title" : "Halfords Tour Series - Round 10",
+      "start" : "14-6-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO 5 / DHI 4",
+      "location" : "Mont-Sainte-Anne, Canada",
+      "start" : "23-6-2012",
+      "end"   : "24-6-2012"
+    },
+    {
+      "title" : "Tour de France",
+      "location" : "France",
+      "start" : "30-6-2012",
+      "end"   : "22-7-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO 6 / DHI 5",
+      "location" : "Windham, United States",
+      "start" : "30-6-2012",
+      "end"   : "1-7-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup XCO 7 / DHI 6",
+      "location" : "Val d'Isere, France",
+      "start" : "28-7-2012",
+      "end"   : "29-7-2012"
+    },
+    {
+      "title" : "Vuelta a Espana",
+      "location" : "Spain",
+      "start" : "18-8-2012",
+      "end"   : "9-9-2012"
+    },
+    {
+      "title" : "UCI Mountain Bike World Cup DHI 7",
+      "location" : "Hafjell, Norway",
+      "start" : "14-9-2012",
+      "end"   : "15-9-2012"
+    }
+  ]
+}
